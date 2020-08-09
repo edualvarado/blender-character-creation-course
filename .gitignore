@@ -1,0 +1,9 @@
+# Blender
+*.blend[1-9]
+dist/
+
+# Python
+*.pyc
+__pycache__/
+
+# Directories
