@@ -1,6 +1,10 @@
 # Blender 3D Character Creation Course | Udemy
 The following content belongs to the Udemy course [Blender Character Creator v2.0 for Video Games Design](https://www.udemy.com/course/blendercharacters/).
 
+<p align="center">
+  <img width="460" height="300" src="/Renders/Pictures/0001-0250-gif.gif">
+</p>
+
 ![Render 1](/Renders/Pictures/0001-0250-gif.gif?raw=true)
 
 ## Introduction
