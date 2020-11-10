@@ -10,3 +10,7 @@ __pycache__/
 HDRI/
 Videos/
 Textures/
+Alphas/
+
+# Heavy models
+05_blocking_out.blend
