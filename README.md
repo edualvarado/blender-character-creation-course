@@ -1,4 +1,4 @@
-# Blender 3D Character Creation Course | Udemy
+# Blender Character Creator for Video Games Design | Udemy
 The following content belongs to the Udemy course [Blender Character Creator for Video Games Design](https://www.udemy.com/course/blendercharacters/).
 
 <p align="center">
